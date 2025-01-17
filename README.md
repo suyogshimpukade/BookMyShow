@@ -21,7 +21,7 @@ Clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/sheikhnazir/BookMyShow.git
+git clone https://github.com/suyogshimpukade/BookMyShow.git
 
 Usage
 API Documentation
